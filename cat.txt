@@ -4,4 +4,3 @@ FIRST COMMIT 3
 asdf
 asdfa
 asdfsdf
-BAD COMMIT!
